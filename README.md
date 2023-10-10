@@ -2,7 +2,7 @@
 
 Meu nome é Ana Eduarda
 
--Estou estudando no Alura
+-Estou estudando no [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização ecompartilhamento dos meus projetos desenvolvidos
 
